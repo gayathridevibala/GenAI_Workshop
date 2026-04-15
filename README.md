@@ -1,1 +1,1 @@
- this is the simple Chat Bot
+This is a simple Chat Bot
